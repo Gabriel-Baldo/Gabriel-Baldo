@@ -5,7 +5,7 @@ I am a software developer focused on building scalable and efficient application
 ---
 
 ### Core Stack
-My primary focus is developing APIs and distributed systems using:
+My primary focus is developing fullstack systems using:
 * Language: Ruby
 * Framework: Ruby on Rails
 
