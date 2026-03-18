@@ -17,12 +17,6 @@ I also have knowledge with:
 
 ---
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Baldo&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Baldo&layout=compact&theme=radical&count_private=true)
-
----
-
 ### Contact
 * LinkedIn: https://www.linkedin.com/in/gabriel-karlinski-baldo/
 * Email: gabriel.k.baldo@gmail.com
